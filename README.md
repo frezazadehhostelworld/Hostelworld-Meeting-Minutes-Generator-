@@ -6,7 +6,7 @@ This project transcribes meeting audio using OpenAI's Whisper API and generates 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/frezazadeh/Meeting-Minutes-Generator.git
+    git clone https://github.com/frezazadehhostelworld/Hostelworld-Meeting-Minutes-Generator-.git
     cd Meeting-Minutes-Generator
     ```
 
